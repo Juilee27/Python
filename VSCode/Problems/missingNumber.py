@@ -1,6 +1,7 @@
 '''
 Problem: Missing number
 
+https://www.youtube.com/watch?v=6KHW7ZQwtCA
 https://practice.geeksforgeeks.org/problems/missing-number4257/1?page=3&difficulty[]=-1&sortBy=latest
 '''
 
